@@ -1,0 +1,40 @@
+---
+title: "Calificaciones"
+author: "José Alejandro Méndoza De Jesús"
+date: "4 de febrero de 2017"
+output: html_document
+---
+Relación de asignaturas con sus respectivas calificaciones por periodo en mi historia académica:
+
+###**OTOÑO 2015**
+
+**ASIGNATURA**                   | **CALIFICACIÓN**
+---------------------------------|------------------
+Matemáticas Básicas              |        7
+Problemas de Matemáticas Básicas |        7
+Conceptos de Cálculo             |        10
+Programación Actuarial I         |        9
+Introducción a la Profesión Act. |        10
+DHPC                             |        9
+
+
+###**PRIMAVERA 2016**
+
+**ASIGNATURA**                   | **CALIFICACIÓN**
+---------------------------------|------------------
+Teoría de Ecuaciones             |         8
+Geometría Analítica              |        10
+Cálculo Diferencial              |         9
+Microeconomía                    |         9
+Teoría del Interés I             |         8
+
+
+###**OTOÑO 2016**
+
+**ASIGNATURA**                   | **CALIFICACIÓN**
+---------------------------------|------------------
+Cálculo Integral                 |         8
+Macroeconomía                    |         9
+Teoria del Interés II            |         9
+Programación Actuarial II        |         8
+Registros Acad. Cientificos y E. |         8
